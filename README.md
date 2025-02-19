@@ -2,9 +2,9 @@
 ### Hi there 👋, I'm Tazminur Rahman Tanim
 #### Web Developer
 
-👋 Hi there! I'm Tazminur Rahman Tanim, a 2nd-semester Computer Science and Engineering student with a growing interest in programming and software development. I’m currently enhancing my skills in C, HTML, and Python, and I enjoy exploring new technologies and experimenting with code to create impactful projects.
+👋 Hi there! I'm Tazminur Rahman Tanim, a 3rd-semester Computer Science and Engineering student with a growing interest in programming and software development. I’m currently enhancing my skills in C, HTML, and Java, and I enjoy exploring new technologies and experimenting with code to create impactful projects.
 
-Skills: C /  PYTHON / JAVA / HTML / CSS
+Skills: C /  PYTHON / JAVA / HTML / CSS / Tailwind
 
 - 🔭 I’m currently working on Youtube/ Facebook 
 - 🌱 I’m currently learning Javascript 
