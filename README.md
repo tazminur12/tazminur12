@@ -1,4 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQEgnQd5Z75bNQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730434096156?e=1735776000&v=beta&t=F2n5g8O2sdrP8vSoGRCZ2yb-Lb2Q86hQcwO1Ld6k-U0)
+(https://www.linkedin.com/in/tazminur-rahman-tanim-305315336/overlay/background-image/)
 ### Hi there 👋, I'm Tazminur Rahman Tanim
 #### Web Developer
 
