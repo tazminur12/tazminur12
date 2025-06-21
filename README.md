@@ -3,14 +3,17 @@
 ### Hi there 👋, I'm Tazminur Rahman Tanim
 #### Web Developer
 
-👋 Hi there! I'm Tazminur Rahman Tanim, a 3rd-semester Computer Science and Engineering student with a growing interest in programming and software development. I’m currently enhancing my skills in C, HTML, and Java, and I enjoy exploring new technologies and experimenting with code to create impactful projects.
+👋 Hi! I’m Tazminur Rahman Tanim, a 4th-semester Computer Science and Engineering student passionate about programming and software development. I am actively improving my skills in C, HTML, and Java, and I love exploring new technologies to build meaningful projects.
 
-Skills: C /  PYTHON / JAVA / HTML / CSS / Tailwind / Javascript / React / Express.js / MongoDB
+Skills: C | Python | Java | HTML | CSS | Tailwind CSS | JavaScript | React | Express.js | MongoDB
 
-- 🔭 I’m currently working on Youtube/ Facebook 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Developer 
+🔭 Currently working on projects for YouTube and Facebook
+
+🌱 Continuously learning and deepening my knowledge of JavaScript
+
+👯 Open to collaboration opportunities on GitHub
+
+💬 Feel free to ask me anything about web development
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tazminur12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tazminur-rahman-tanim-305315336/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tanim647/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@tazminur12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@tazminurrahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/tazminur-rahman/home)  
