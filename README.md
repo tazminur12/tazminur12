@@ -5,7 +5,7 @@
 ## 👋 Hi there! I'm Tazminur Rahman Tanim  
 ### 💻 CSE Student & MERN Stack Developer  
 
-👋 I’m **Tazminur Rahman Tanim**, a 4th-semester **Computer Science and Engineering** student with a deep passion for **programming** and **web development**.  
+👋 I’m **Tazminur Rahman Tanim**, a 5th-semester **Computer Science and Engineering** student with a deep passion for **programming** and **web development**.  
 I specialize in building dynamic and responsive web applications using the **MERN Stack** *(MongoDB, Express.js, React, Node.js)*.
 
 Currently, I’m sharpening my skills in **C, HTML, React, and Java**, while also exploring new tools and technologies to solve real-world problems through code.  
