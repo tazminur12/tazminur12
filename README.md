@@ -1,4 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQEgnQd5Z75bNQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730434096156?e=1756339200&v=beta&t=jsUKYQshbIBxzDD0Y-suBLKugVG_GuyZZGU6m7qBWsI)
+![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQHroS38LkVa2g/profile-displaybackgroundimage-shrink_350_1400/B4EZo94LXjKoAY-/0/1761974729258?e=1763596800&v=beta&t=Xf0cW6Z7m6vXXSL4Q-TwvH6xF9jgZ2VSjw9IdiloDEw)
 
 # 💫 About Me:
 
