@@ -1,113 +1,235 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQHroS38LkVa2g/profile-displaybackgroundimage-shrink_350_1400/B4EZo94LXjKoAY-/0/1761974729258?e=1782950400&v=beta&t=IXhcz0WM8-292Lx2qacSIMkp17ymrwZ0fcRqpEcpW0Y)
+# Hi there, I'm Tazminur Rahman Tanim 👋
 
-# 💫 About Me:
+### Full Stack Developer from Bangladesh 🇧🇩
 
-## 👋 Hi there! I'm Tazminur Rahman Tanim  
-### 💻 CSE Student & MERN Stack Developer  
+I'm **Tazminur Rahman Tanim**, a Computer Science student and **Full Stack Web Developer** passionate about building modern, scalable, and production-ready web applications.
 
-👋 I’m **Tazminur Rahman Tanim**, a 5th-semester **Computer Science and Engineering** student with a deep passion for **programming** and **web development**.  
-I specialize in building dynamic and responsive web applications using the **MERN Stack** *(MongoDB, Express.js, React, Node.js)*.
+I primarily work with **Next.js, React, TypeScript, Node.js, PostgreSQL, MongoDB, Prisma, Supabase, Tailwind CSS**, and modern cloud services.
 
-Currently, I’m sharpening my skills in **C, HTML, React, and Java**, while also exploring new tools and technologies to solve real-world problems through code.  
-I love turning ideas into full-fledged projects that are both functional and user-friendly.
+I enjoy turning real-world business requirements into reliable software products — from SaaS platforms and business automation systems to AI-powered applications.
 
-> “Code is my canvas — and development is my way of creating impact.”
-
----
-
-### 🔭 I’m currently working on  
-React projects like **Pickabox**, **PlantPulse**, and a full-stack **Parcel Delivery System** and **Bogurabashi.com** using Firebase, MongoDB, and Express.
-
-### 👯 I’m looking to collaborate on  
-Web development projects, especially MERN stack apps or anything creative in **React, Tailwind CSS, and Firebase**.
-
-### 🤝 I’m looking for help with  
-Optimizing backend performance and improving advanced Firebase integrations (like Firestore rules & Stripe payments).
-
-### 🌱 I’m currently learning  
-**Next.js**, **TypeScript**, and exploring **UI/UX best practices**.
-
-### 💬 Ask me about  
-Anything related to **React**, **Firebase**, **MongoDB**, **Tailwind**, or **Video Editing** — I love sharing knowledge!
-
-### ⚡ Fun fact  
-Besides coding, I run a traditional food brand called **Doi Bilash** and create voiceover-based **Islamic and travel videos** on YouTube! 🎥✨
+* 💻 Full Stack Web Developer
+* 🚀 Building production-ready web applications & SaaS
+* 🧠 Exploring AI, automation & scalable backend architecture
+* 🎓 Computer Science & Engineering Student
+* 🌎 Working with international clients and remote teams
+* ⚡ Always learning, building and improving
 
 ---
 
-## 📫 How to reach me:
-- Facebook: [Tazminur Rahman](https://www.facebook.com/tan.im.921025)  
-- YouTube: [@tazminurrahman](https://www.youtube.com/@tazminurrahman)  
-- Email: [tanimkhalifa55@gmail.com](mailto:tanimkhalifa55@gmail.com)
+## 🚀 What I Do
+
+* Full Stack Web Application Development
+* SaaS & Multi-Tenant Application Development
+* REST API & Backend Development
+* Database Design & Optimization
+* Authentication & Authorization
+* AI-powered Application Development
+* Business Process Automation
+* Third-party API Integrations
+* Cloud Storage & Deployment
+* Performance & Production Optimization
 
 ---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tan.im.921025)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tanim647/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tazminur-rahman-tanim-305315336/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tazminur12)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@tazminurrahman)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanimkhalifa55@gmail.com)
+## 🛠️ Things I Code With
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge\&logo=framer\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+
+### Database & ORM
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=Prisma\&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=white)
+
+### Cloud, DevOps & Services
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+### Other Technologies
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-EF4444?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge\&logo=stripe\&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge\&logo=amazons3\&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
 
 ---
 
-# 💻 Tech Stack:
+# 🚀 Featured Projects
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
+## 🧾 QuoteFlow
 
-**🎨 Design Tools:**  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+**Multi-Tenant SaaS Platform for Cleaning Businesses**
+
+A production-focused business management platform designed for Australian cleaning companies.
+
+### Key Features
+
+* Multi-tenant architecture
+* Company Admin / Sales / Super Admin roles
+* Quote & Agreement management
+* Invoice management
+* Client signing without login
+* Outlook / Microsoft 365 integration
+* Lead & request management
+* Automated follow-up workflows
+* Invoice PDF generation
+* Email delivery with Resend
+* Cloudflare R2 file storage
+* Company-specific branding
+* Payment status management
+* Dashboard & business analytics
+
+**Tech:** `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Supabase` `NextAuth` `Resend` `Cloudflare R2` `Vercel`
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tazminur12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=tazminur12&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tazminur12&theme=dark&hide_border=false&layout=compact)
+## 🎓 IELTS Practice Pro
+
+**AI-Powered IELTS Practice & Assessment Platform**
+
+A full-stack IELTS preparation platform featuring AI-powered Speaking evaluation and automated learning workflows.
+
+### Key Features
+
+* IELTS Listening, Reading, Writing & Speaking practice
+* AI-powered Speaking examiner
+* AI-based answer evaluation
+* Speaking transcription
+* IELTS band scoring
+* Real-time speaking experience
+* Audio recording & cloud persistence
+* Background processing with queues
+* Redis & BullMQ based workflows
+* AI-generated feedback
+* Secure cloud file storage
+
+**Tech:** `Next.js` `React` `TypeScript` `MongoDB` `Redis` `BullMQ` `Cloudflare R2` `OpenAI API` `ElevenLabs API` `Vercel`
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tazminur12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🌐 Business Websites & Web Applications
+
+I also build modern business websites and web applications for international clients, with a focus on:
+
+* Conversion-focused landing pages
+* Local SEO
+* Responsive UI/UX
+* Lead generation
+* Business automation
+* CMS & dashboard systems
+* API integrations
+* Performance optimization
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 💡 Currently Learning & Exploring
+
+* Advanced Next.js Architecture
+* NestJS
+* PostgreSQL & Database Architecture
+* Distributed Systems
+* AI Application Development
+* LLM API Integration
+* Background Jobs & Queues
+* Scalable SaaS Architecture
+* Cloud Infrastructure
+* Production Performance Optimization
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tazminur12&limit=5&theme=radical&combine_all_yearly_contributions=true)
+# 🧠 Development Philosophy
+
+> **Build it. Understand it. Improve it. Ship it.**
+
+I believe in learning by building real-world products rather than only following tutorials.
+
+My goal is not just to write code, but to understand **why a system works, how it scales, and how it can be made reliable in production.**
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=tazminur12&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🎓 Education & Certifications
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎓 Computer Science & Engineering
+
+Currently pursuing my degree in **Computer Science & Engineering (CSE)**.
+
+### 📜 Certifications
+
+* **Programming Hero — Web Development Course**
+* **Udemy — HTML & CSS**
+* **Git & GitHub**
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in connecting with developers, founders, businesses and people working on interesting technology projects.
+
+<p align="left">
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+📧 **Email:** Your professional email here
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+```javascript
+while (alive) {
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
+
+**Thanks for visiting my profile! 🚀**
